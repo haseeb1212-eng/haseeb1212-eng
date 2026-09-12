@@ -46,7 +46,7 @@
 
 ## 📫 Connect with Me
 - 📧 Email: [kshaikhaseeb@gmail.com](mailto:kshaikhaseeb@gmail.com)  
-- 💼 LinkedIn: [Shaik Haseeb Hussain](https://www.linkedin.com/in/shaik-haseeb-hussain-3311a3305/)  
+- 💼 LinkedIn: [Shaik Haseeb Hussain](https://www.linkedin.com/in/shaik-haseeb-hussain-9b3553420/)  
 - 🐙 GitHub: [Shaik Haseeb Hussain](https://github.com/ShaikHaseebHussain)  
 
 ---
