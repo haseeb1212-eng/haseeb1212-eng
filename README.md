@@ -18,20 +18,6 @@
 
 ---
 
-## 📂 Featured Projects
-🔗 Click below to explore my projects:  
-
-1. 📊 [**Titanic Data Analysis**](https://github.com/ShaikHaseebHussain/Titanic-Analysis)  
-   - Cleaned and analyzed Titanic dataset using Pandas & NumPy  
-
-2. 🎥 [**Movie Recommendation System**](https://github.com/ShaikHaseebHussain/Movie-Recommendation)  
-   - Built a simple recommendation system in Python  
-
-3. 🌦 [**Weather Data Analysis**](https://github.com/ShaikHaseebHussain/Weather-Analysis)  
-   - Analyzed Hyderabad weather trends with Pandas  
-
----
-
 ## 📊 GitHub Stats
 ![Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haseeb1212-eng&show_icons=true&theme=radical)  
 
