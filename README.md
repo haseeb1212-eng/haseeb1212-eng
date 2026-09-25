@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&width=500&lines=Data+Science+Student;Python+%7C+NumPy+%7C+Pandas+Enthusiast;Aspiring+Data+Analyst;Lifelong+Learner)](https://git.io/typing-svg)
 
-🎓 BSc Data Science (Osmania University, 3rd Semester)  
+🎓 BSc Data Science (Osmania University, Final Year)  
 💻 Passionate about Python, Data Analysis, and Machine Learning  
 🚀 Exploring NumPy, Pandas, and real-world data science projects  
 
